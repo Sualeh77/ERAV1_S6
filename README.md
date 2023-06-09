@@ -1,6 +1,10 @@
 # Part1 : BackPropagation
 
-BackPropagation.xlsx file in the root directory, It includes detailed mathematical computation of a Neural Network. It covers both forward and backward propagation computations and the Equatuions, Gradients required to set the final parameters(weights) of the model. For the sake of simplicity small and simple model has been considered. Below is the model configuration:
+BackPropagation.xlsx file in the root directory, It includes detailed mathematical computation of a Neural Network. It covers both forward and backward propagation computations and the Equatuions, Gradients required to set the final parameters(weights) of the model. 
+
+![Excel](images/Excel.png)
+
+For the sake of simplicity small and simple model has been considered. Below is the model configuration:
 
 ![Simple Neural Network](images/neural_network.png)
 

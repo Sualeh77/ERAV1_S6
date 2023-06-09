@@ -63,6 +63,21 @@ With learning rate as η = 1, Following is the plot of loss vs no. of epochs.
 
 ![Loss](images/Loss.png)
 
+If we change the Learning rate to 0.1 then loss plot changes to:
+![Loss at 0.1](images/loss_0.1.png)
+
+If we change the Learning rate to 0.2 then loss plot changes to:
+![Loss at 0.2](images/loss_0.2.png)
+
+If we change the Learning rate to 0.5 then loss plot changes to:
+![Loss at 0.5](images/loss_0.5.png)
+
+If we change the Learning rate to 0.8 then loss plot changes to:
+![Loss at 0.8](images/loss_0.8.png)
+
+If we change the Learning rate to 2.0 then loss plot changes to:
+![Loss at 2.0](images/loss_2.png)
+
 
 
 
@@ -70,7 +85,7 @@ With learning rate as η = 1, Following is the plot of loss vs no. of epochs.
 
 
 
-
+***
 
 # Part 2 | Image Classifier
 
